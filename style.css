@@ -26,7 +26,7 @@ h2 {
 
 /* HLAVICKA */
 .hlavicka {
-    background-image: url('../../images/island-hlavicka.jpg');
+    background-image: url('images/island-hlavicka.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
